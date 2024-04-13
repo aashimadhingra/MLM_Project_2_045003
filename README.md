@@ -1,6 +1,5 @@
-# MLM_Project_2_045003
-
 # SUPERVISED LEARNING PROJECT-2 (TERM - III)
+
 ### Machine Learning- Classification
 
 Dataset link: https://www.kaggle.com/datasets/jacobboober/brands?select=brand_details.csv
