@@ -4,7 +4,7 @@
 
 Dataset link: https://www.kaggle.com/datasets/jacobboober/brands?select=brand_details.csv
 
-Dataset name: brand_details.csv
+Dataset name: merged_data.csv
 
 MLM_PROJECT_2_045003.ipynb: Contains the excutable code and the project report
 
